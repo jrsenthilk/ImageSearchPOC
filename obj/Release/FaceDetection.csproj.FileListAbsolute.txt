@@ -1,0 +1,16 @@
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\Emgu.CV.License.txt
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\haarcascade_eye.xml
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\haarcascade_frontalface_default.xml
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\lena.jpg
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\haarcascade_frontalface_alt_tree.xml
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\ExifReader.cs
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\ExifTags.cs
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\bin\Example.FaceDetection.pdb
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\FaceDetection\obj\Release\ResolveAssemblyReference.cache
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\FaceDetection\obj\Release\FaceDetection.Form1.resources
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\FaceDetection\obj\Release\FaceDetection.Properties.Resources.resources
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\FaceDetection\obj\Release\ResGen.read.1.tlog
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\FaceDetection\obj\Release\ResGen.write.1.tlog
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\FaceDetection\obj\Release\Example.FaceDetection.exe
+C:\Emgu\emgucv-windows-universal-cuda 2.9.0.1922\Emgu.CV.Example\FaceDetection\obj\Release\Example.FaceDetection.pdb
